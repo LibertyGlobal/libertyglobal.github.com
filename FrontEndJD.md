@@ -1,5 +1,4 @@
 
-
 ![Liberty Global Logo](Liberty-Global-logo.png)
 
 # Front-End Web Developer  #
@@ -76,7 +75,7 @@ We are fast-paced agile team with flexible hours and location. We work hard but 
 
 ### How to Apply ###
 
-+ Candidates should submit a cover letter and resume to <a href="mailto://jbrook@lgi.com">jbrook@lgi.com</a>.
++ Candidates should submit a cover letter and resume to <a href="mailto://abakker@libertyglobal.com">abakker@libertyglobal.com</a>.
 
 + Your application email should include a link to your Github account. If you don't have one please submit some code samples that show a thoughtful solution to a unique problem. 
 
